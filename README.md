@@ -38,4 +38,4 @@ cga.com
 ```
 
 ### More Information
-- [RAW CGA Data (Modding Wiki)](https://moddingwiki.shikadi.net/wiki/Raw_CGA_Data)
+- [RAW CGA Data - Modding Wiki](https://moddingwiki.shikadi.net/wiki/Raw_CGA_Data/)
